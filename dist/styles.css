@@ -1,0 +1,16 @@
+.contenedor{
+    margin: 0 auto;
+    width: 80%;
+    background-color: cadetblue;
+}
+.boton{
+    margin: 0 auto;
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+}
+
+#salida{
+    display: inline-block;
+    margin-left: 20px;
+}
